@@ -1,5 +1,5 @@
 # c-calculator
 basic c calculator
 
-> gcc main.c -o program
-> ./program
+gcc main.c -o program
+./program
